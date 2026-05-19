@@ -45,3 +45,4 @@ volumes:
 
 networks:
   msngr-network:
+    external: true
